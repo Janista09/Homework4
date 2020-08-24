@@ -2,7 +2,8 @@
 using namespace std;
 int main() {
   char ch;
-  int ga = 0, round = 0;
+ float ga = 0;
+  int round = 0;
   do{
     cout << "Enter the letter grade(Enter 'X' to exit)" << endl;
     cin >> ch;
